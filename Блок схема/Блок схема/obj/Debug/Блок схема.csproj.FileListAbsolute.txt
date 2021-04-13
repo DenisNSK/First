@@ -1,0 +1,7 @@
+C:\Visual Studio\Блок схема\Блок схема\obj\Debug\Блок схема.csprojAssemblyReference.cache
+C:\Visual Studio\Блок схема\Блок схема\obj\Debug\Блок схема.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Блок схема\Блок схема\bin\Debug\Блок схема.exe.config
+C:\Visual Studio\Блок схема\Блок схема\bin\Debug\Блок схема.exe
+C:\Visual Studio\Блок схема\Блок схема\bin\Debug\Блок схема.pdb
+C:\Visual Studio\Блок схема\Блок схема\obj\Debug\Блок схема.exe
+C:\Visual Studio\Блок схема\Блок схема\obj\Debug\Блок схема.pdb
