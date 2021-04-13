@@ -1,0 +1,7 @@
+C:\Visual Studio\первая работа\первая работа\bin\Debug\первая работа.exe.config
+C:\Visual Studio\первая работа\первая работа\bin\Debug\первая работа.exe
+C:\Visual Studio\первая работа\первая работа\bin\Debug\первая работа.pdb
+C:\Visual Studio\первая работа\первая работа\obj\Debug\первая работа.csprojAssemblyReference.cache
+C:\Visual Studio\первая работа\первая работа\obj\Debug\первая работа.csproj.CoreCompileInputs.cache
+C:\Visual Studio\первая работа\первая работа\obj\Debug\первая работа.exe
+C:\Visual Studio\первая работа\первая работа\obj\Debug\первая работа.pdb
