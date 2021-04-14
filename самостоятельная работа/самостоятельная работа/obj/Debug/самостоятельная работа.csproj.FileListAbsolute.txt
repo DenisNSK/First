@@ -1,0 +1,7 @@
+C:\Visual Studio\самостоятельная работа\самостоятельная работа\bin\Debug\самостоятельная работа.exe.config
+C:\Visual Studio\самостоятельная работа\самостоятельная работа\bin\Debug\самостоятельная работа.exe
+C:\Visual Studio\самостоятельная работа\самостоятельная работа\bin\Debug\самостоятельная работа.pdb
+C:\Visual Studio\самостоятельная работа\самостоятельная работа\obj\Debug\самостоятельная работа.csprojAssemblyReference.cache
+C:\Visual Studio\самостоятельная работа\самостоятельная работа\obj\Debug\самостоятельная работа.csproj.CoreCompileInputs.cache
+C:\Visual Studio\самостоятельная работа\самостоятельная работа\obj\Debug\самостоятельная работа.exe
+C:\Visual Studio\самостоятельная работа\самостоятельная работа\obj\Debug\самостоятельная работа.pdb
