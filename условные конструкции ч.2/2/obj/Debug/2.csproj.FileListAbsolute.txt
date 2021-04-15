@@ -1,0 +1,7 @@
+C:\Visual Studio\условные конструкции ч.2\2\obj\Debug\2.csprojAssemblyReference.cache
+C:\Visual Studio\условные конструкции ч.2\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Visual Studio\условные конструкции ч.2\2\bin\Debug\2.exe.config
+C:\Visual Studio\условные конструкции ч.2\2\bin\Debug\2.exe
+C:\Visual Studio\условные конструкции ч.2\2\bin\Debug\2.pdb
+C:\Visual Studio\условные конструкции ч.2\2\obj\Debug\2.exe
+C:\Visual Studio\условные конструкции ч.2\2\obj\Debug\2.pdb

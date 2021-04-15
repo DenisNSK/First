@@ -57,19 +57,21 @@ namespace самостоятельная_работа
             if ((x > 0))
             {
                double y = Math.Pow(Math.Sin(x), 2);
+                Console.Write(y);
 
             }
             else
             {
                 double y =1-2*Math.Sin(Math.Pow(x,2));
+                Console.WriteLine(y);
             }
             Console.ReadKey();
 
             //4.10
 
-            Console.WriteLine("Введите первое число");
+            Console.WriteLine("Введите сторона квадрата");
             double a = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Введите второе число");
+            Console.WriteLine("Введите окружность");
             double r = Convert.ToDouble(Console.ReadLine());
             double s1 = (a * a);
             double s2 = (2 * 3.14 *Math.Pow(r, 2));
