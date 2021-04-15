@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22b", "22b\22b.csproj", "{3CE33E38-A2A5-443B-ADD4-B13B1F2DCB95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bum", "bum\bum.csproj", "{3A94BA41-7173-44C6-A044-E7956AD716CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31", "31\31.csproj", "{D5ACFFEB-ADBC-4C80-BD58-E7F303656926}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CE33E38-A2A5-443B-ADD4-B13B1F2DCB95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CE33E38-A2A5-443B-ADD4-B13B1F2DCB95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CE33E38-A2A5-443B-ADD4-B13B1F2DCB95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CE33E38-A2A5-443B-ADD4-B13B1F2DCB95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A94BA41-7173-44C6-A044-E7956AD716CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A94BA41-7173-44C6-A044-E7956AD716CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A94BA41-7173-44C6-A044-E7956AD716CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A94BA41-7173-44C6-A044-E7956AD716CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5ACFFEB-ADBC-4C80-BD58-E7F303656926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5ACFFEB-ADBC-4C80-BD58-E7F303656926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5ACFFEB-ADBC-4C80-BD58-E7F303656926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5ACFFEB-ADBC-4C80-BD58-E7F303656926}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {337EBB19-FF3B-4B72-B6B4-A3152D1041ED}
+	EndGlobalSection
+EndGlobal

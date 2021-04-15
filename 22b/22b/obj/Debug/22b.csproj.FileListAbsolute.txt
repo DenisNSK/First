@@ -1,0 +1,7 @@
+C:\Visual Studio\22b\22b\bin\Debug\22b.exe.config
+C:\Visual Studio\22b\22b\bin\Debug\22b.exe
+C:\Visual Studio\22b\22b\bin\Debug\22b.pdb
+C:\Visual Studio\22b\22b\obj\Debug\22b.csprojAssemblyReference.cache
+C:\Visual Studio\22b\22b\obj\Debug\22b.csproj.CoreCompileInputs.cache
+C:\Visual Studio\22b\22b\obj\Debug\22b.exe
+C:\Visual Studio\22b\22b\obj\Debug\22b.pdb
