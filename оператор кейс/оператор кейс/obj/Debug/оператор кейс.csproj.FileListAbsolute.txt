@@ -1,0 +1,7 @@
+C:\Visual Studio\оператор кейс\оператор кейс\bin\Debug\оператор кейс.exe.config
+C:\Visual Studio\оператор кейс\оператор кейс\bin\Debug\оператор кейс.exe
+C:\Visual Studio\оператор кейс\оператор кейс\bin\Debug\оператор кейс.pdb
+C:\Visual Studio\оператор кейс\оператор кейс\obj\Debug\оператор кейс.csprojAssemblyReference.cache
+C:\Visual Studio\оператор кейс\оператор кейс\obj\Debug\оператор кейс.csproj.CoreCompileInputs.cache
+C:\Visual Studio\оператор кейс\оператор кейс\obj\Debug\оператор кейс.exe
+C:\Visual Studio\оператор кейс\оператор кейс\obj\Debug\оператор кейс.pdb

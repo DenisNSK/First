@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\система координат\система координат\bin\Debug\система координат.exe.config
+C:\Users\HP\source\repos\система координат\система координат\bin\Debug\система координат.exe
+C:\Users\HP\source\repos\система координат\система координат\bin\Debug\система координат.pdb
+C:\Users\HP\source\repos\система координат\система координат\obj\Debug\система координат.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\система координат\система координат\obj\Debug\система координат.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\система координат\система координат\obj\Debug\система координат.exe
+C:\Users\HP\source\repos\система координат\система координат\obj\Debug\система координат.pdb

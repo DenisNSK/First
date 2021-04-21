@@ -1,0 +1,6 @@
+C:\Visual Studio\оператор кейс\4.101\bin\Debug\4.101.exe.config
+C:\Visual Studio\оператор кейс\4.101\bin\Debug\4.101.exe
+C:\Visual Studio\оператор кейс\4.101\bin\Debug\4.101.pdb
+C:\Visual Studio\оператор кейс\4.101\obj\Debug\4.101.csproj.CoreCompileInputs.cache
+C:\Visual Studio\оператор кейс\4.101\obj\Debug\4.101.exe
+C:\Visual Studio\оператор кейс\4.101\obj\Debug\4.101.pdb

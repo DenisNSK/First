@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "оператор кейс", "оператор кейс\оператор кейс.csproj", "{3D404EA0-ECF9-4E7E-876F-829A66CDC60E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.101", "4.101\4.101.csproj", "{7B2B6637-469F-4D26-9AE6-A7FA474C5CB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D404EA0-ECF9-4E7E-876F-829A66CDC60E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D404EA0-ECF9-4E7E-876F-829A66CDC60E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D404EA0-ECF9-4E7E-876F-829A66CDC60E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D404EA0-ECF9-4E7E-876F-829A66CDC60E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B2B6637-469F-4D26-9AE6-A7FA474C5CB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B2B6637-469F-4D26-9AE6-A7FA474C5CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B2B6637-469F-4D26-9AE6-A7FA474C5CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B2B6637-469F-4D26-9AE6-A7FA474C5CB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5429DAF-9218-42BA-9C83-676036BC2195}
+	EndGlobalSection
+EndGlobal
