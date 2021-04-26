@@ -1,0 +1,7 @@
+C:\Visual Studio\26.06\5.30г\bin\Debug\5.30г.exe.config
+C:\Visual Studio\26.06\5.30г\bin\Debug\5.30г.exe
+C:\Visual Studio\26.06\5.30г\bin\Debug\5.30г.pdb
+C:\Visual Studio\26.06\5.30г\obj\Debug\5.30г.csprojAssemblyReference.cache
+C:\Visual Studio\26.06\5.30г\obj\Debug\5.30г.csproj.CoreCompileInputs.cache
+C:\Visual Studio\26.06\5.30г\obj\Debug\5.30г.exe
+C:\Visual Studio\26.06\5.30г\obj\Debug\5.30г.pdb
