@@ -1,0 +1,6 @@
+C:\Visual Studio\цитклические конструкции\5.28b\obj\Debug\5.28b.csproj.CoreCompileInputs.cache
+C:\Visual Studio\цитклические конструкции\5.28b\bin\Debug\5.28b.exe.config
+C:\Visual Studio\цитклические конструкции\5.28b\bin\Debug\5.28b.exe
+C:\Visual Studio\цитклические конструкции\5.28b\bin\Debug\5.28b.pdb
+C:\Visual Studio\цитклические конструкции\5.28b\obj\Debug\5.28b.exe
+C:\Visual Studio\цитклические конструкции\5.28b\obj\Debug\5.28b.pdb

@@ -1,0 +1,14 @@
+C:\Visual Studio\цитклические конструкции\1-b\bin\Debug\1-b.exe.config
+C:\Visual Studio\цитклические конструкции\1-b\bin\Debug\1-b.exe
+C:\Visual Studio\цитклические конструкции\1-b\bin\Debug\1-b.pdb
+C:\Visual Studio\цитклические конструкции\1-b\obj\Debug\1-b.csproj.CoreCompileInputs.cache
+C:\Visual Studio\цитклические конструкции\1-b\obj\Debug\1-b.exe
+C:\Visual Studio\цитклические конструкции\1-b\obj\Debug\1-b.pdb
+C:\Visual Studio\цитклические конструкции\1-b\obj\Debug\1-b.csprojAssemblyReference.cache
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\цитклические конструкции\1-b\bin\Debug\1-b.exe.config
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\цитклические конструкции\1-b\bin\Debug\1-b.exe
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\цитклические конструкции\1-b\bin\Debug\1-b.pdb
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\цитклические конструкции\1-b\obj\Debug\1-b.csprojAssemblyReference.cache
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\цитклические конструкции\1-b\obj\Debug\1-b.csproj.CoreCompileInputs.cache
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\цитклические конструкции\1-b\obj\Debug\1-b.exe
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\цитклические конструкции\1-b\obj\Debug\1-b.pdb

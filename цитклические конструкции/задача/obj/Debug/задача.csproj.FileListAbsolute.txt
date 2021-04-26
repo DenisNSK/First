@@ -1,0 +1,7 @@
+C:\Visual Studio\цитклические конструкции\задача\bin\Debug\задача.exe.config
+C:\Visual Studio\цитклические конструкции\задача\bin\Debug\задача.exe
+C:\Visual Studio\цитклические конструкции\задача\bin\Debug\задача.pdb
+C:\Visual Studio\цитклические конструкции\задача\obj\Debug\задача.csproj.CoreCompileInputs.cache
+C:\Visual Studio\цитклические конструкции\задача\obj\Debug\задача.exe
+C:\Visual Studio\цитклические конструкции\задача\obj\Debug\задача.pdb
+C:\Visual Studio\цитклические конструкции\задача\obj\Debug\задача.csprojAssemblyReference.cache

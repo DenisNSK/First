@@ -1,0 +1,7 @@
+C:\Visual Studio\цитклические конструкции\22.04\bin\Debug\22.04.exe.config
+C:\Visual Studio\цитклические конструкции\22.04\bin\Debug\22.04.exe
+C:\Visual Studio\цитклические конструкции\22.04\bin\Debug\22.04.pdb
+C:\Visual Studio\цитклические конструкции\22.04\obj\Debug\22.04.csprojAssemblyReference.cache
+C:\Visual Studio\цитклические конструкции\22.04\obj\Debug\22.04.csproj.CoreCompileInputs.cache
+C:\Visual Studio\цитклические конструкции\22.04\obj\Debug\22.04.exe
+C:\Visual Studio\цитклические конструкции\22.04\obj\Debug\22.04.pdb

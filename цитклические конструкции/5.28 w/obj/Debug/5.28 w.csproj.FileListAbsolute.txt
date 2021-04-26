@@ -1,0 +1,14 @@
+C:\Visual Studio\цитклические конструкции\5.28 w\bin\Debug\5.28 w.exe.config
+C:\Visual Studio\цитклические конструкции\5.28 w\bin\Debug\5.28 w.exe
+C:\Visual Studio\цитклические конструкции\5.28 w\bin\Debug\5.28 w.pdb
+C:\Visual Studio\цитклические конструкции\5.28 w\obj\Debug\5.28 w.csprojAssemblyReference.cache
+C:\Visual Studio\цитклические конструкции\5.28 w\obj\Debug\5.28 w.csproj.CoreCompileInputs.cache
+C:\Visual Studio\цитклические конструкции\5.28 w\obj\Debug\5.28 w.exe
+C:\Visual Studio\цитклические конструкции\5.28 w\obj\Debug\5.28 w.pdb
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\цитклические конструкции\5.28 w\bin\Debug\5.28 w.exe.config
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\цитклические конструкции\5.28 w\bin\Debug\5.28 w.exe
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\цитклические конструкции\5.28 w\bin\Debug\5.28 w.pdb
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\цитклические конструкции\5.28 w\obj\Debug\5.28 w.csprojAssemblyReference.cache
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\цитклические конструкции\5.28 w\obj\Debug\5.28 w.csproj.CoreCompileInputs.cache
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\цитклические конструкции\5.28 w\obj\Debug\5.28 w.exe
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\цитклические конструкции\5.28 w\obj\Debug\5.28 w.pdb

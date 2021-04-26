@@ -1,0 +1,7 @@
+C:\Visual Studio\цитклические конструкции\5.32\obj\Debug\5.32.csprojAssemblyReference.cache
+C:\Visual Studio\цитклические конструкции\5.32\obj\Debug\5.32.csproj.CoreCompileInputs.cache
+C:\Visual Studio\цитклические конструкции\5.32\bin\Debug\5.32.exe.config
+C:\Visual Studio\цитклические конструкции\5.32\bin\Debug\5.32.exe
+C:\Visual Studio\цитклические конструкции\5.32\bin\Debug\5.32.pdb
+C:\Visual Studio\цитклические конструкции\5.32\obj\Debug\5.32.exe
+C:\Visual Studio\цитклические конструкции\5.32\obj\Debug\5.32.pdb
