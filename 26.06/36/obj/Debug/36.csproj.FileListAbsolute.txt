@@ -5,3 +5,10 @@ C:\Visual Studio\26.06\36\obj\Debug\36.csprojAssemblyReference.cache
 C:\Visual Studio\26.06\36\obj\Debug\36.csproj.CoreCompileInputs.cache
 C:\Visual Studio\26.06\36\obj\Debug\36.exe
 C:\Visual Studio\26.06\36\obj\Debug\36.pdb
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\26.06\36\bin\Debug\36.exe.config
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\26.06\36\bin\Debug\36.exe
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\26.06\36\bin\Debug\36.pdb
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\26.06\36\obj\Debug\36.csprojAssemblyReference.cache
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\26.06\36\obj\Debug\36.csproj.CoreCompileInputs.cache
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\26.06\36\obj\Debug\36.exe
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\26.06\36\obj\Debug\36.pdb

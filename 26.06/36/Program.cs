@@ -17,7 +17,7 @@ namespace _36
             {
                 s= s + Math.Pow(x,2) / i;
 ;            }
-          Console.WriteLine("s");
+          Console.WriteLine(s);
             Console.ReadKey();
         }
     }

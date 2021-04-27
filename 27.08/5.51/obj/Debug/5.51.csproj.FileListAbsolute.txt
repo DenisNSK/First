@@ -1,0 +1,6 @@
+C:\Visual Studio\27.08\5.51\bin\Debug\5.51.exe.config
+C:\Visual Studio\27.08\5.51\bin\Debug\5.51.exe
+C:\Visual Studio\27.08\5.51\bin\Debug\5.51.pdb
+C:\Visual Studio\27.08\5.51\obj\Debug\5.51.csproj.CoreCompileInputs.cache
+C:\Visual Studio\27.08\5.51\obj\Debug\5.51.exe
+C:\Visual Studio\27.08\5.51\obj\Debug\5.51.pdb

@@ -1,0 +1,7 @@
+C:\Visual Studio\27.08\5.67\obj\Debug\5.67.csprojAssemblyReference.cache
+C:\Visual Studio\27.08\5.67\obj\Debug\5.67.csproj.CoreCompileInputs.cache
+C:\Visual Studio\27.08\5.67\bin\Debug\5.67.exe.config
+C:\Visual Studio\27.08\5.67\bin\Debug\5.67.exe
+C:\Visual Studio\27.08\5.67\bin\Debug\5.67.pdb
+C:\Visual Studio\27.08\5.67\obj\Debug\5.67.exe
+C:\Visual Studio\27.08\5.67\obj\Debug\5.67.pdb
