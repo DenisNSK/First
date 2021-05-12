@@ -20,7 +20,7 @@ namespace самостоятельная_работа_12_мая
             int m = Convert.ToInt32(Console.ReadLine());
             double s = ((a * b)*1/2);
             double v = (s * h);
-            double p = (m * v);
+            double p = (m / v);
             Console.WriteLine(p);
             Console.ReadKey();
 
