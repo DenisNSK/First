@@ -1,0 +1,7 @@
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\самостоятельная работа 12 мая\18\bin\Debug\18.exe.config
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\самостоятельная работа 12 мая\18\bin\Debug\18.exe
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\самостоятельная работа 12 мая\18\bin\Debug\18.pdb
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\самостоятельная работа 12 мая\18\obj\Debug\18.csprojAssemblyReference.cache
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\самостоятельная работа 12 мая\18\obj\Debug\18.csproj.CoreCompileInputs.cache
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\самостоятельная работа 12 мая\18\obj\Debug\18.exe
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\самостоятельная работа 12 мая\18\obj\Debug\18.pdb

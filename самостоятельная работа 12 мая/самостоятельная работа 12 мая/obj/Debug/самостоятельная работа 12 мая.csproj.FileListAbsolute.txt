@@ -1,0 +1,7 @@
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\самостоятельная работа 12 мая\самостоятельная работа 12 мая\bin\Debug\самостоятельная работа 12 мая.exe.config
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\самостоятельная работа 12 мая\самостоятельная работа 12 мая\bin\Debug\самостоятельная работа 12 мая.exe
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\самостоятельная работа 12 мая\самостоятельная работа 12 мая\bin\Debug\самостоятельная работа 12 мая.pdb
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\самостоятельная работа 12 мая\самостоятельная работа 12 мая\obj\Debug\самостоятельная работа 12 мая.csprojAssemblyReference.cache
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\самостоятельная работа 12 мая\самостоятельная работа 12 мая\obj\Debug\самостоятельная работа 12 мая.csproj.CoreCompileInputs.cache
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\самостоятельная работа 12 мая\самостоятельная работа 12 мая\obj\Debug\самостоятельная работа 12 мая.exe
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\самостоятельная работа 12 мая\самостоятельная работа 12 мая\obj\Debug\самостоятельная работа 12 мая.pdb

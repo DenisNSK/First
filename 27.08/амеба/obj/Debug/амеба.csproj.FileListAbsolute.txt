@@ -1,0 +1,6 @@
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\27.08\амеба\bin\Debug\амеба.exe.config
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\27.08\амеба\bin\Debug\амеба.exe
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\27.08\амеба\bin\Debug\амеба.pdb
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\27.08\амеба\obj\Debug\амеба.csproj.CoreCompileInputs.cache
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\27.08\амеба\obj\Debug\амеба.exe
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\27.08\амеба\obj\Debug\амеба.pdb
