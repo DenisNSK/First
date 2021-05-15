@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\13мая\3i\bin\Debug\3i.exe.config
+C:\Users\HP\source\repos\13мая\3i\bin\Debug\3i.exe
+C:\Users\HP\source\repos\13мая\3i\bin\Debug\3i.pdb
+C:\Users\HP\source\repos\13мая\3i\obj\Debug\3i.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\13мая\3i\obj\Debug\3i.exe
+C:\Users\HP\source\repos\13мая\3i\obj\Debug\3i.pdb

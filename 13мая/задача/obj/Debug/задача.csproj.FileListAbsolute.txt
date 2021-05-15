@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\13мая\задача\bin\Debug\задача.exe.config
+C:\Users\HP\source\repos\13мая\задача\bin\Debug\задача.exe
+C:\Users\HP\source\repos\13мая\задача\bin\Debug\задача.pdb
+C:\Users\HP\source\repos\13мая\задача\obj\Debug\задача.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\13мая\задача\obj\Debug\задача.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\13мая\задача\obj\Debug\задача.exe
+C:\Users\HP\source\repos\13мая\задача\obj\Debug\задача.pdb

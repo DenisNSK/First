@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\13мая\13мая\bin\Debug\13мая.exe.config
+C:\Users\HP\source\repos\13мая\13мая\bin\Debug\13мая.exe
+C:\Users\HP\source\repos\13мая\13мая\bin\Debug\13мая.pdb
+C:\Users\HP\source\repos\13мая\13мая\obj\Debug\13мая.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\13мая\13мая\obj\Debug\13мая.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\13мая\13мая\obj\Debug\13мая.exe
+C:\Users\HP\source\repos\13мая\13мая\obj\Debug\13мая.pdb

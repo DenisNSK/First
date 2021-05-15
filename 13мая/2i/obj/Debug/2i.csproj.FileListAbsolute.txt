@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\13мая\2i\bin\Debug\2i.exe.config
+C:\Users\HP\source\repos\13мая\2i\bin\Debug\2i.exe
+C:\Users\HP\source\repos\13мая\2i\bin\Debug\2i.pdb
+C:\Users\HP\source\repos\13мая\2i\obj\Debug\2i.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\13мая\2i\obj\Debug\2i.exe
+C:\Users\HP\source\repos\13мая\2i\obj\Debug\2i.pdb

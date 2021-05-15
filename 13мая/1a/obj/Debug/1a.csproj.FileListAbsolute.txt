@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\13мая\1a\bin\Debug\1a.exe.config
+C:\Users\HP\source\repos\13мая\1a\bin\Debug\1a.exe
+C:\Users\HP\source\repos\13мая\1a\bin\Debug\1a.pdb
+C:\Users\HP\source\repos\13мая\1a\obj\Debug\1a.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\13мая\1a\obj\Debug\1a.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\13мая\1a\obj\Debug\1a.exe
+C:\Users\HP\source\repos\13мая\1a\obj\Debug\1a.pdb

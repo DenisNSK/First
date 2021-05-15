@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\13мая\2e\bin\Debug\2e.exe.config
+C:\Users\HP\source\repos\13мая\2e\bin\Debug\2e.exe
+C:\Users\HP\source\repos\13мая\2e\bin\Debug\2e.pdb
+C:\Users\HP\source\repos\13мая\2e\obj\Debug\2e.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\13мая\2e\obj\Debug\2e.exe
+C:\Users\HP\source\repos\13мая\2e\obj\Debug\2e.pdb

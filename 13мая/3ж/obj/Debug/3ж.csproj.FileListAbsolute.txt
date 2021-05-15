@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\13мая\3ж\bin\Debug\3ж.exe.config
+C:\Users\HP\source\repos\13мая\3ж\bin\Debug\3ж.exe
+C:\Users\HP\source\repos\13мая\3ж\bin\Debug\3ж.pdb
+C:\Users\HP\source\repos\13мая\3ж\obj\Debug\3ж.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\13мая\3ж\obj\Debug\3ж.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\13мая\3ж\obj\Debug\3ж.exe
+C:\Users\HP\source\repos\13мая\3ж\obj\Debug\3ж.pdb
