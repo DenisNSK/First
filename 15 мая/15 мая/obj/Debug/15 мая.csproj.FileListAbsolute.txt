@@ -1,0 +1,7 @@
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\15 мая\15 мая\bin\Debug\15 мая.exe.config
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\15 мая\15 мая\bin\Debug\15 мая.exe
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\15 мая\15 мая\bin\Debug\15 мая.pdb
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\15 мая\15 мая\obj\Debug\15 мая.csprojAssemblyReference.cache
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\15 мая\15 мая\obj\Debug\15 мая.csproj.CoreCompileInputs.cache
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\15 мая\15 мая\obj\Debug\15 мая.exe
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\15 мая\15 мая\obj\Debug\15 мая.pdb

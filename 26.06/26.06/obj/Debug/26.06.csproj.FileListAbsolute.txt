@@ -1,7 +1,0 @@
-C:\Visual Studio\26.06\26.06\obj\Debug\26.06.csprojAssemblyReference.cache
-C:\Visual Studio\26.06\26.06\obj\Debug\26.06.csproj.CoreCompileInputs.cache
-C:\Visual Studio\26.06\26.06\bin\Debug\26.06.exe.config
-C:\Visual Studio\26.06\26.06\bin\Debug\26.06.exe
-C:\Visual Studio\26.06\26.06\bin\Debug\26.06.pdb
-C:\Visual Studio\26.06\26.06\obj\Debug\26.06.exe
-C:\Visual Studio\26.06\26.06\obj\Debug\26.06.pdb
