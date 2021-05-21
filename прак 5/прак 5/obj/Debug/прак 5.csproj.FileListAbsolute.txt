@@ -1,0 +1,7 @@
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\прак 5\прак 5\bin\Debug\прак 5.exe.config
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\прак 5\прак 5\bin\Debug\прак 5.exe
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\прак 5\прак 5\bin\Debug\прак 5.pdb
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\прак 5\прак 5\obj\Debug\прак 5.csprojAssemblyReference.cache
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\прак 5\прак 5\obj\Debug\прак 5.csproj.CoreCompileInputs.cache
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\прак 5\прак 5\obj\Debug\прак 5.exe
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\прак 5\прак 5\obj\Debug\прак 5.pdb
