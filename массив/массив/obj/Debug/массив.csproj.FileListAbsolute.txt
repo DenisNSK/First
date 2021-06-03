@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\массив\массив\bin\Debug\массив.exe.config
+C:\Users\HP\source\repos\массив\массив\bin\Debug\массив.exe
+C:\Users\HP\source\repos\массив\массив\bin\Debug\массив.pdb
+C:\Users\HP\source\repos\массив\массив\obj\Debug\массив.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\массив\массив\obj\Debug\массив.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\массив\массив\obj\Debug\массив.exe
+C:\Users\HP\source\repos\массив\массив\obj\Debug\массив.pdb

@@ -1,0 +1,7 @@
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\29 мая\дискриминант\bin\Debug\дискриминант.exe.config
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\29 мая\дискриминант\bin\Debug\дискриминант.exe
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\29 мая\дискриминант\bin\Debug\дискриминант.pdb
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\29 мая\дискриминант\obj\Debug\дискриминант.csprojAssemblyReference.cache
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\29 мая\дискриминант\obj\Debug\дискриминант.csproj.CoreCompileInputs.cache
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\29 мая\дискриминант\obj\Debug\дискриминант.exe
+C:\Users\HP\Dropbox\Мой ПК (Denis)\Desktop\First\29 мая\дискриминант\obj\Debug\дискриминант.pdb

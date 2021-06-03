@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\массив\рандом\bin\Debug\рандом.exe.config
+C:\Users\HP\source\repos\массив\рандом\bin\Debug\рандом.exe
+C:\Users\HP\source\repos\массив\рандом\bin\Debug\рандом.pdb
+C:\Users\HP\source\repos\массив\рандом\obj\Debug\рандом.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\массив\рандом\obj\Debug\рандом.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\массив\рандом\obj\Debug\рандом.exe
+C:\Users\HP\source\repos\массив\рандом\obj\Debug\рандом.pdb

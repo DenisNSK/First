@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\массив 3 урок\11.52\bin\Debug\11.52.exe.config
+C:\Users\HP\source\repos\массив 3 урок\11.52\bin\Debug\11.52.exe
+C:\Users\HP\source\repos\массив 3 урок\11.52\bin\Debug\11.52.pdb
+C:\Users\HP\source\repos\массив 3 урок\11.52\obj\Debug\11.52.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\массив 3 урок\11.52\obj\Debug\11.52.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\массив 3 урок\11.52\obj\Debug\11.52.exe
+C:\Users\HP\source\repos\массив 3 урок\11.52\obj\Debug\11.52.pdb
